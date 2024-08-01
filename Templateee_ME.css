@@ -1,10 +1,4 @@
-/* * {
-    margin: 0%;
-    padding: 0%;
-} */
-
 #first div {
-    /* border: 1px solid black; */
     border-radius: 5px;
     font-size: 16px;
 }
@@ -38,8 +32,6 @@
 }
 
 #fb {
-    /* background-color: antiquewhite; */
-    /* height: 45vh; */
     transition: 0.8s;
     align-items: center;
     align-content: center;
